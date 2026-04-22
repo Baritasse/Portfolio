@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 420" fill="none">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a0a"/>
+      <stop offset="100%" stop-color="#111"/>
+    </linearGradient>
+  </defs>
+  <rect width="320" height="420" fill="url(#g)"/>
+  <text x="50%" y="48%" fill="#525252" font-family="monospace" font-size="12" text-anchor="middle">NO_IMAGE.jpg</text>
+  <text x="50%" y="54%" fill="#00ff9d" font-family="monospace" font-size="10" text-anchor="middle">copy your photo to /public/me.jpg</text>
+</svg>

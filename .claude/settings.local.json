@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh repo *)",
+      "WebFetch(domain:github.com)",
+      "Bash(git --version)",
+      "Read(//tmp/ui-ux-pro-max-skill/.claude/**)",
+      "Read(//tmp/**)",
+      "Bash(mkdir -p \"C:/Users/jliya/.claude/skills\")",
+      "Bash(cp -r /tmp/ui-ux-pro-max-skill/.claude/skills/* \"C:/Users/jliya/.claude/skills/\")",
+      "WebFetch(domain:21st.dev)",
+      "Bash(npx -y @21st-dev/cli@latest install claude --api-key an_sk_a89d8e45b984fb229264d0eb0678edaa6367ba6a013af18d408e3b79f2499527)",
+      "Bash(cmd.exe //c \"where npx\")",
+      "Bash(cmd.exe //c \"where node && where npx && node --version && npm --version\")",
+      "Bash(export PATH=\"/c/Program Files/nodejs:$PATH\")",
+      "Bash(npx --version)",
+      "Bash(xargs grep *)",
+      "Bash(node -e ' *)",
+      "Read(//c/Users/jliya/.claude/skills/**)",
+      "Read(//c/Users/jliya/.claude/skills/ui-ux-pro-max/**)"
+    ]
+  }
+}
