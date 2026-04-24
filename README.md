@@ -13,12 +13,3 @@ Portfolio personnel — **Barae Jliyakh**, étudiant en Terminale NSI à la rech
 - Instagram : [bar9ou9a._](https://www.instagram.com/bar9ou9a._)
 
 ---
-
-## Lancer en local
-
-```bash
-npm install
-npm run dev
-```
-
-Puis ouvrir [http://localhost:3000](http://localhost:3000).
