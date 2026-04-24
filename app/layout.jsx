@@ -1,4 +1,5 @@
 import { Inter, Space_Grotesk, JetBrains_Mono } from "next/font/google";
+import { Analytics } from "@vercel/analytics/next";
 import "./globals.css";
 
 // =====================================================
@@ -59,6 +60,7 @@ export default function RootLayout({ children }) {
     >
       <body className="min-h-screen bg-bg-base text-fg-primary antialiased">
         {children}
+        <Analytics />
       </body>
     </html>
   );
